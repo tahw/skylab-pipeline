@@ -2,7 +2,7 @@
 
 @Library('skylab-pipeline') _
 
-testbody {
+skylab4k8s {
     name = 'nihao'
 }
 

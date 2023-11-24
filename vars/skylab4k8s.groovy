@@ -2,7 +2,7 @@
 
 import script.Deploy2K8s
 
-def call() {
+def call(body) {
     def appName = env.appName
 
     new Deploy2K8s().call(){}
