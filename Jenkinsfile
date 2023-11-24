@@ -1,6 +1,12 @@
 #!/usr/bin/groovy
+
 @Library('skylab-pipeline') _
 
-testbody {
-    name = 'nihao'
-}
+test 'pipeline'
+
+
+// @Library('skylab-pipeline') _
+//
+// testbody {
+//     name = 'nihao'
+// }
