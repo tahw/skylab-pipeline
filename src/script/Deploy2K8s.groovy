@@ -1,7 +1,7 @@
 #!/usr/bin/groovy
 package script
 
-def call(body) {
+def call() {
     sh("pwd")
     echo 'hello world'
 }
