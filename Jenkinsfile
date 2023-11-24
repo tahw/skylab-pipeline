@@ -2,11 +2,10 @@
 
 @Library('skylab-pipeline') _
 
-test 'pipeline'
+testbody {
+    name = 'nihao'
+}
 
 
 // @Library('skylab-pipeline') _
 //
-// testbody {
-//     name = 'nihao'
-// }
