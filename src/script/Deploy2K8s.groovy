@@ -1,6 +1,6 @@
 #!/usr/bin/groovy
 package script
 
-def call() {
+def call(body) {
     echo 'hello world'
 }
