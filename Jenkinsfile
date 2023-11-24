@@ -5,7 +5,3 @@
 skylab4k8s {
     name = 'nihao'
 }
-
-
-// @Library('skylab-pipeline') _
-//
