@@ -2,5 +2,9 @@
 package script
 
 def call(body) {
-    echo 'hello world'
+
+    def jobName = env.JOB_NAME
+
+    echo "jobName: ${jobName}"
+    echo 'Deploy2K8s'
 }
